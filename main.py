@@ -43,6 +43,6 @@ def game():
         break
     
     else:
-      print("Es heißt nicht umsonst ZAHLENraten! Versuch es nochmal!")
+      print("Es heißt nicht umsonst ZAHLEN Raten! Versuch es nochmal!")
 
 game()
