@@ -1,7 +1,6 @@
 import random
     
 def game():
-  
   numberToGuess = random.randint(1, 100) 
   trysTakeToGuess = 0
 
